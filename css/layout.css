@@ -326,7 +326,7 @@ ul#nav li.current a { color: #D985FF; }
   	-webkit-animation: photoshop 2s ease;
 }
 .English-Language {
-  	width: 50%;
+  	width: 25%;
   	-moz-animation: English-Language 2s ease;
   	-webkit-animation: English-Language 2s ease;
 }
@@ -357,7 +357,7 @@ ul#nav li.current a { color: #D985FF; }
 }
 @-moz-keyframes English-Language {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 25%;  }
 }
 @-moz-keyframes Python {
   0%   { width: 0px;  }
@@ -382,7 +382,7 @@ ul#nav li.current a { color: #D985FF; }
 }
 @-webkit-keyframes English-Language {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 25%;  }
 }
 @-webkit-keyframes Python {
   0%   { width: 0px;  }
